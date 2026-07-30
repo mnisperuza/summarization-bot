@@ -3,7 +3,7 @@ This script is meant to test transformers pipeline implementation.
 ```python
 from transformers import pipeline
 
-zsc_bot = pipeline("Summarization")
+zsc_bot = pipeline("summarization")
 ```
 
 **¿What is a summarization model?**
