@@ -1,0 +1,15 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environment & Credentials ---
+# Even if you have "no packages," if you use a virtual environment:
+venv/
+.venv/
+env/
+
+# --- IDE & OS ---
+.vscode/
+.idea/
+.DS_Store
